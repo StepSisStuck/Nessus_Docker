@@ -50,21 +50,6 @@ Execute into container using cli like below
 ```Bash
 /opt/nessus/sbin/nessuscli chpasswd admin
 ```
-# Readme
-
-This crack was originally used, and I didn't plan to make it public  
-But when I used the FAHAI cracked version of AWVS yesterday, I saw such a sentence:  
-`Thank's Fahai && Open Source ENTHUSIAST`  
- <img src="https://user-images.githubusercontent.com/40572216/174698816-440d4969-f9d6-4c7d-982c-9af9c4a3e875.png" width = "400" height = "200" alt="图片名称" align=center />
-
-So I was thinking, I used so many open source projects, how many contributions did I make?  
-I simply disclose this project, which can also be considered a little contribution to the Internet security  
-If there is no accident, it will continue to be updated, after all, I also need to use  
-~~Don't get the automatic update plug -in version, use it first!~~  
-I had release auto-update version, check Update log!
-
-The Original Intention of the Project is in the Spirit of Open Source  
-We can do a little thing for open source, for the world!  
 
 # Update log
 
@@ -117,7 +102,4 @@ Some English text translated by [Aholicknight](https://github.com/Aholicknight)
 
 thanks a lot! 
 
-# donate
-If you like this project, you can be a sponsor!  
 
-[Pay Me via PayPal](https://www.paypal.com/paypalme/pay2rami)
