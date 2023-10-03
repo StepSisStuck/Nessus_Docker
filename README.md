@@ -96,10 +96,3 @@ __TIPS__: gitHub/elliot-bia
 > ~~What? high-performance and high-bandwidth machines? Never mind, just use it! have fun!~~
 
 In fact, there is another EASY way to solved the encryption, try and find it!😆
-
-# Thanks note
-Some English text translated by [Aholicknight](https://github.com/Aholicknight)
-
-thanks a lot! 
-
-
